@@ -48,17 +48,15 @@ El archivo **Inventario ARCANA.xlsx** registra las existencias físicas del nego
 1. Abre [Registro de inversiones.xlsx](./Registro%20de%20inversiones.xlsx).
 2. Ve a `Registro Insumos` para revisar cada compra, proveedor, cantidad y costo total real.
 3. Ve a `Dashboard` para consultar el consolidado por categoría y la gráfica.
-4. Usa `Pedidos` para relacionar compras completas o facturas.
-5. Consulta `Guía` para entender cada columna.
-6. Los soportes deberán quedar en la carpeta [`recibos/`](./recibos/).
+4. Los soportes deberán quedar en la carpeta [`recibos/`](./recibos/).
 
-Cada artículo registrado debe estar respaldado por un recibo, factura o comprobante de pago.
+Cada artículo registrado esta respaldado por un recibo, factura o comprobante de pago.
 
 ### Primeras inversiones
 
-#### Insumos, colorantes y aditivos
+#### Insumos, colorantes y aditivos de Vela Bella
 
-El detalle de la primera compra suma **$157.500**. En la descripción inicial se había indicado $157.000, pero las líneas registradas en el archivo totalizan $157.500.
+El detalle de la primera compra suma **$157.500**.
 
 <img src="./assets/inversion_insumos_y_aditivos.png" alt="Primera inversión en insumos y aditivos" width="650">
 
@@ -76,6 +74,8 @@ La primera inversión en ceras fue de **$309.000**:
 La inversión en fragancias fue de **$238.000**.
 
 Actualmente se está gestionando la devolución de la fragancia de chocolate o, preferiblemente, su cambio por otra fragancia dulce. Hasta que el proveedor confirme el resultado, el gasto continúa registrado en el total.
+
+- Diferencia pendiente de reposición: **$22.500**.
 
 #### Moldes comprados por Anggie
 
@@ -217,17 +217,6 @@ Para consultar un cierre:
 
 <img src="./assets/resumen_ventas_actual.png" alt="Resumen actual de ventas y utilidades" width="720">
 
-La distribución está configurada en **85 % / 15 %**, pero los encabezados no indican claramente a quién pertenece cada porcentaje. Conviene agregar los nombres para evitar confusiones.
+La distribución está configurada en **85 % / 15 %**, 
 
 <img src="./assets/conciliacion_balance_actual.png" alt="Conciliación actual de inversiones en la hoja Balance" width="900">
-
----
-
-## Pendientes antes del próximo cierre
-
-- Actualizar el inventario con las salidas de la feria.
-- Agregar los comprobantes a `recibos/`.
-- Registrar el resultado del cambio o devolución de la fragancia de chocolate.
-- Corregir la diferencia de $300 entre el detalle de inversiones y `Balance`.
-- Identificar con nombres las participaciones del 85 % y del 15 %.
-- Guardar los precios de cada periodo antes de modificarlos.
