@@ -1,8 +1,19 @@
 # ARCANA — Inventario, inversiones, costos y ventas
 
-Este repositorio centraliza los documentos contables y operativos de **ARCANA** después de la reubicación en Bogotá. Todos los valores están expresados en **pesos colombianos (COP)**.
+Este repositorio centraliza los documentos contables y operativos de **ARCANA** después de la reubicación en Bogotá.
 
-> **Estado actual:** el inventario todavía no incluye todos los movimientos posteriores a la feria. Los datos de ventas visibles llegan al **12 de julio de 2026**.
+## Resumen rápido de cuentas
+
+**A solicitud de Jhon Freddy**
+
+* **Ventas totales:** $313.000
+* **Costos asociados:** $90.522
+* **Utilidad total:** $222.478
+* **Participación Bogotá — 85 %:** $189.107
+* **Participación Villavicencio — 15 %:** $33.372
+* **Dinero pendiente por reponer:** $99.100
+
+> **Estado actual:** los datos de ventas corresponden al corte del **12 de julio de 2026**.
 
 ## Ruta rápida
 
